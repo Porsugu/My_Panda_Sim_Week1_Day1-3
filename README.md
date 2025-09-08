@@ -43,10 +43,10 @@ The robot arm joint moves toward the desired angle and stays there stably withou
 
 ```bash
 # Example: run the controlled motion script in PyBullet
-python3 controlled_motion.py
+python3 day3_dual_joint_trajectory.py
 ```
 
-Where `controlled_motion.py`:
+Where `day3_dual_joint_trajectory.py`:
 - Loads Panda URDF.
 - Commands a joint toward a target angle using POSITION_CONTROL.
 - Steps the simulation to ensure smooth motion and stable hold.
