@@ -1,4 +1,4 @@
-# My Panda Sim — Week 1 (Day1–3)
+# My_Panda_Sim_Week1_Day1-3
 
 ## 📌 Overview
 This document records the progress from **Day1 to Day3** of the 30-day robotics programming learning plan.
